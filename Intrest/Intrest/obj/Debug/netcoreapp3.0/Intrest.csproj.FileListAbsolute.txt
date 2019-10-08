@@ -1,0 +1,11 @@
+/Users/jakobveselsky/Projects/Intrest/Intrest/obj/Debug/netcoreapp3.0/Intrest.csprojAssemblyReference.cache
+/Users/jakobveselsky/Projects/Intrest/Intrest/obj/Debug/netcoreapp3.0/Intrest.AssemblyInfoInputs.cache
+/Users/jakobveselsky/Projects/Intrest/Intrest/obj/Debug/netcoreapp3.0/Intrest.AssemblyInfo.cs
+/Users/jakobveselsky/Projects/Intrest/Intrest/bin/Debug/netcoreapp3.0/Intrest
+/Users/jakobveselsky/Projects/Intrest/Intrest/bin/Debug/netcoreapp3.0/Intrest.deps.json
+/Users/jakobveselsky/Projects/Intrest/Intrest/bin/Debug/netcoreapp3.0/Intrest.runtimeconfig.json
+/Users/jakobveselsky/Projects/Intrest/Intrest/bin/Debug/netcoreapp3.0/Intrest.runtimeconfig.dev.json
+/Users/jakobveselsky/Projects/Intrest/Intrest/bin/Debug/netcoreapp3.0/Intrest.dll
+/Users/jakobveselsky/Projects/Intrest/Intrest/bin/Debug/netcoreapp3.0/Intrest.pdb
+/Users/jakobveselsky/Projects/Intrest/Intrest/obj/Debug/netcoreapp3.0/Intrest.dll
+/Users/jakobveselsky/Projects/Intrest/Intrest/obj/Debug/netcoreapp3.0/Intrest.pdb

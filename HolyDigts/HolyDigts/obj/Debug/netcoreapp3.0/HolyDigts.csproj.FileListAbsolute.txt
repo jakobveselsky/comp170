@@ -1,0 +1,11 @@
+/Users/jakobveselsky/Projects/HolyDigts/HolyDigts/bin/Debug/netcoreapp3.0/HolyDigts
+/Users/jakobveselsky/Projects/HolyDigts/HolyDigts/bin/Debug/netcoreapp3.0/HolyDigts.deps.json
+/Users/jakobveselsky/Projects/HolyDigts/HolyDigts/bin/Debug/netcoreapp3.0/HolyDigts.runtimeconfig.json
+/Users/jakobveselsky/Projects/HolyDigts/HolyDigts/bin/Debug/netcoreapp3.0/HolyDigts.runtimeconfig.dev.json
+/Users/jakobveselsky/Projects/HolyDigts/HolyDigts/bin/Debug/netcoreapp3.0/HolyDigts.dll
+/Users/jakobveselsky/Projects/HolyDigts/HolyDigts/bin/Debug/netcoreapp3.0/HolyDigts.pdb
+/Users/jakobveselsky/Projects/HolyDigts/HolyDigts/obj/Debug/netcoreapp3.0/HolyDigts.csprojAssemblyReference.cache
+/Users/jakobveselsky/Projects/HolyDigts/HolyDigts/obj/Debug/netcoreapp3.0/HolyDigts.AssemblyInfoInputs.cache
+/Users/jakobveselsky/Projects/HolyDigts/HolyDigts/obj/Debug/netcoreapp3.0/HolyDigts.AssemblyInfo.cs
+/Users/jakobveselsky/Projects/HolyDigts/HolyDigts/obj/Debug/netcoreapp3.0/HolyDigts.dll
+/Users/jakobveselsky/Projects/HolyDigts/HolyDigts/obj/Debug/netcoreapp3.0/HolyDigts.pdb

@@ -1,0 +1,11 @@
+/Users/jakobveselsky/Projects/Maximum/Maximum/obj/Debug/netcoreapp3.0/Maximum.csprojAssemblyReference.cache
+/Users/jakobveselsky/Projects/Maximum/Maximum/obj/Debug/netcoreapp3.0/Maximum.AssemblyInfoInputs.cache
+/Users/jakobveselsky/Projects/Maximum/Maximum/obj/Debug/netcoreapp3.0/Maximum.AssemblyInfo.cs
+/Users/jakobveselsky/Projects/Maximum/Maximum/bin/Debug/netcoreapp3.0/Maximum
+/Users/jakobveselsky/Projects/Maximum/Maximum/bin/Debug/netcoreapp3.0/Maximum.deps.json
+/Users/jakobveselsky/Projects/Maximum/Maximum/bin/Debug/netcoreapp3.0/Maximum.runtimeconfig.json
+/Users/jakobveselsky/Projects/Maximum/Maximum/bin/Debug/netcoreapp3.0/Maximum.runtimeconfig.dev.json
+/Users/jakobveselsky/Projects/Maximum/Maximum/bin/Debug/netcoreapp3.0/Maximum.dll
+/Users/jakobveselsky/Projects/Maximum/Maximum/bin/Debug/netcoreapp3.0/Maximum.pdb
+/Users/jakobveselsky/Projects/Maximum/Maximum/obj/Debug/netcoreapp3.0/Maximum.dll
+/Users/jakobveselsky/Projects/Maximum/Maximum/obj/Debug/netcoreapp3.0/Maximum.pdb
