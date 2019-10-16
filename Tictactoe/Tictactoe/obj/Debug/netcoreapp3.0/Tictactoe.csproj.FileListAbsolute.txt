@@ -1,0 +1,11 @@
+/Users/jakobveselsky/Projects/Tictactoe/Tictactoe/obj/Debug/netcoreapp3.0/Tictactoe.csprojAssemblyReference.cache
+/Users/jakobveselsky/Projects/Tictactoe/Tictactoe/obj/Debug/netcoreapp3.0/Tictactoe.AssemblyInfoInputs.cache
+/Users/jakobveselsky/Projects/Tictactoe/Tictactoe/obj/Debug/netcoreapp3.0/Tictactoe.AssemblyInfo.cs
+/Users/jakobveselsky/Projects/Tictactoe/Tictactoe/bin/Debug/netcoreapp3.0/Tictactoe
+/Users/jakobveselsky/Projects/Tictactoe/Tictactoe/bin/Debug/netcoreapp3.0/Tictactoe.deps.json
+/Users/jakobveselsky/Projects/Tictactoe/Tictactoe/bin/Debug/netcoreapp3.0/Tictactoe.runtimeconfig.json
+/Users/jakobveselsky/Projects/Tictactoe/Tictactoe/bin/Debug/netcoreapp3.0/Tictactoe.runtimeconfig.dev.json
+/Users/jakobveselsky/Projects/Tictactoe/Tictactoe/bin/Debug/netcoreapp3.0/Tictactoe.dll
+/Users/jakobveselsky/Projects/Tictactoe/Tictactoe/bin/Debug/netcoreapp3.0/Tictactoe.pdb
+/Users/jakobveselsky/Projects/Tictactoe/Tictactoe/obj/Debug/netcoreapp3.0/Tictactoe.dll
+/Users/jakobveselsky/Projects/Tictactoe/Tictactoe/obj/Debug/netcoreapp3.0/Tictactoe.pdb
