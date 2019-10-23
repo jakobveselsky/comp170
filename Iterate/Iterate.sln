@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterate", "Iterate\Iterate.csproj", "{7A94D68F-82D5-4339-A74B-E12A3A490F09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A94D68F-82D5-4339-A74B-E12A3A490F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A94D68F-82D5-4339-A74B-E12A3A490F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A94D68F-82D5-4339-A74B-E12A3A490F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A94D68F-82D5-4339-A74B-E12A3A490F09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

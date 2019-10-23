@@ -1,0 +1,11 @@
+/Users/jakobveselsky/Projects/Iterate/Iterate/obj/Debug/netcoreapp3.0/Iterate.csprojAssemblyReference.cache
+/Users/jakobveselsky/Projects/Iterate/Iterate/obj/Debug/netcoreapp3.0/Iterate.AssemblyInfoInputs.cache
+/Users/jakobveselsky/Projects/Iterate/Iterate/obj/Debug/netcoreapp3.0/Iterate.AssemblyInfo.cs
+/Users/jakobveselsky/Projects/Iterate/Iterate/bin/Debug/netcoreapp3.0/Iterate
+/Users/jakobveselsky/Projects/Iterate/Iterate/bin/Debug/netcoreapp3.0/Iterate.deps.json
+/Users/jakobveselsky/Projects/Iterate/Iterate/bin/Debug/netcoreapp3.0/Iterate.runtimeconfig.json
+/Users/jakobveselsky/Projects/Iterate/Iterate/bin/Debug/netcoreapp3.0/Iterate.runtimeconfig.dev.json
+/Users/jakobveselsky/Projects/Iterate/Iterate/bin/Debug/netcoreapp3.0/Iterate.dll
+/Users/jakobveselsky/Projects/Iterate/Iterate/bin/Debug/netcoreapp3.0/Iterate.pdb
+/Users/jakobveselsky/Projects/Iterate/Iterate/obj/Debug/netcoreapp3.0/Iterate.dll
+/Users/jakobveselsky/Projects/Iterate/Iterate/obj/Debug/netcoreapp3.0/Iterate.pdb
