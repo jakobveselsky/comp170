@@ -1,0 +1,11 @@
+/Users/jakobveselsky/Projects/Palindrome/Palindrome/bin/Debug/netcoreapp3.0/Palindrome
+/Users/jakobveselsky/Projects/Palindrome/Palindrome/bin/Debug/netcoreapp3.0/Palindrome.deps.json
+/Users/jakobveselsky/Projects/Palindrome/Palindrome/bin/Debug/netcoreapp3.0/Palindrome.runtimeconfig.json
+/Users/jakobveselsky/Projects/Palindrome/Palindrome/bin/Debug/netcoreapp3.0/Palindrome.runtimeconfig.dev.json
+/Users/jakobveselsky/Projects/Palindrome/Palindrome/bin/Debug/netcoreapp3.0/Palindrome.dll
+/Users/jakobveselsky/Projects/Palindrome/Palindrome/bin/Debug/netcoreapp3.0/Palindrome.pdb
+/Users/jakobveselsky/Projects/Palindrome/Palindrome/obj/Debug/netcoreapp3.0/Palindrome.csprojAssemblyReference.cache
+/Users/jakobveselsky/Projects/Palindrome/Palindrome/obj/Debug/netcoreapp3.0/Palindrome.AssemblyInfoInputs.cache
+/Users/jakobveselsky/Projects/Palindrome/Palindrome/obj/Debug/netcoreapp3.0/Palindrome.AssemblyInfo.cs
+/Users/jakobveselsky/Projects/Palindrome/Palindrome/obj/Debug/netcoreapp3.0/Palindrome.dll
+/Users/jakobveselsky/Projects/Palindrome/Palindrome/obj/Debug/netcoreapp3.0/Palindrome.pdb
