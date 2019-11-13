@@ -1,0 +1,11 @@
+/Users/jakobveselsky/Projects/PhoneBook/PhoneBook/obj/Debug/netcoreapp3.0/PhoneBook.csprojAssemblyReference.cache
+/Users/jakobveselsky/Projects/PhoneBook/PhoneBook/obj/Debug/netcoreapp3.0/PhoneBook.AssemblyInfoInputs.cache
+/Users/jakobveselsky/Projects/PhoneBook/PhoneBook/obj/Debug/netcoreapp3.0/PhoneBook.AssemblyInfo.cs
+/Users/jakobveselsky/Projects/PhoneBook/PhoneBook/bin/Debug/netcoreapp3.0/PhoneBook
+/Users/jakobveselsky/Projects/PhoneBook/PhoneBook/bin/Debug/netcoreapp3.0/PhoneBook.deps.json
+/Users/jakobveselsky/Projects/PhoneBook/PhoneBook/bin/Debug/netcoreapp3.0/PhoneBook.runtimeconfig.json
+/Users/jakobveselsky/Projects/PhoneBook/PhoneBook/bin/Debug/netcoreapp3.0/PhoneBook.runtimeconfig.dev.json
+/Users/jakobveselsky/Projects/PhoneBook/PhoneBook/bin/Debug/netcoreapp3.0/PhoneBook.dll
+/Users/jakobveselsky/Projects/PhoneBook/PhoneBook/bin/Debug/netcoreapp3.0/PhoneBook.pdb
+/Users/jakobveselsky/Projects/PhoneBook/PhoneBook/obj/Debug/netcoreapp3.0/PhoneBook.dll
+/Users/jakobveselsky/Projects/PhoneBook/PhoneBook/obj/Debug/netcoreapp3.0/PhoneBook.pdb
